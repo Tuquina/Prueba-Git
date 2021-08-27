@@ -1,2 +1,1 @@
 GG(master)
-GG(rama1)
